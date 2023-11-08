@@ -27,7 +27,7 @@ I'm a Latinx NYC-based Software Engineer with a background in Marketing & Custom
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />  </a>
-
+      <a href="#"><img src="https://img.shields.io/badge/API-Google_Books-ff69b4?style=flat-square" />  </a>
 
 
 ![Carla's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=cmpacheco23&show_icons=true&rank_icon=github&theme=dark)
