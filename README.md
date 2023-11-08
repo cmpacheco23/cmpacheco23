@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer based in New York City with a background in M
 ### Fun facts: 🌟
 My hobbies include reading, savoring a good cup of coffee, amassing an excessive number of mugs, and enthusiastically discussing cats, especially my own.
 
-<img src="images/mini.png" alt="My Cat Minina" style="border-radius: 50%; width: 80px; height: 70px">
+<img src="images/mini.png" alt="My Cat Minina" style="border-radius: 50%; width: 280px; height: 280px">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmpacheco23&layout=donut)](https://github.com/cmpacheco23/github-readme-stats)
 
