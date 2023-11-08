@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Carla! 👋</h1>
+<img src="images/me.JPG" alt="My Cat Minina">
 
 ## About Me
-
 I'm a Full Stack Software Engineer based in New York City with a background in Marketing and Customer Success at MarTech SaaS companies. I'm deeply passionate about coding and open source projects, and you can explore my work on my GitHub profile. Feel free to delve into my repositories and contribute to any projects that pique your interest.
 
 ### Fun facts: 🌟
