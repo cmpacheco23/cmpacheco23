@@ -2,7 +2,13 @@
   <h1>Hi there, I'm Carla! 👋</h1>
 
 ## About Me
-I'm a Latinx NYC-based Software Engineer with a background in Marketing & Customer Success at MarTech SaaS companies. I'm passionate about coding and open source projects. My GitHub profile is where you'll find a collection of my work. Feel free to explore my repositories and contribute to any projects you find interesting.
+
+I'm a Full Stack Software Engineer based in New York City with a background in Marketing and Customer Success at MarTech SaaS companies. I'm deeply passionate about coding and open source projects, and you can explore my work on my GitHub profile. Feel free to delve into my repositories and contribute to any projects that pique your interest.
+
+### Fun facts: 🌟
+My hobbies include reading, savoring a good cup of coffee, amassing an excessive number of mugs, and enthusiastically discussing cats, especially my own.
+
+<img src="images/mini.png" alt="My Cat Minina" style="border-radius: 50%; width: 80px; height: 70px">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmpacheco23&layout=donut)](https://github.com/cmpacheco23/github-readme-stats)
 
@@ -33,10 +39,6 @@ I'm a Latinx NYC-based Software Engineer with a background in Marketing & Custom
 ![Carla's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=cmpacheco23&show_icons=true&rank_icon=github&theme=dark)
 
 
-### Contact Me
-
-Let's connect! You can reach me at [cpacheco.nyc@gmail.com](mailto:cpacheco.nyc@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/thecarlapacheco/).
-
 ### Explore My Projects 
 
 Here are some of my highlighted projects:
@@ -56,5 +58,16 @@ Sensi Snacker Tracker: [GitHub Repository](https://github.com/cmpacheco23/sensi-
   <br>
   <img src="images/food.png" width="200" height="200">
 
+
+### Contact Me
+
+Let's connect! You can reach me at [cpacheco.nyc@gmail.com](mailto:cpacheco.nyc@gmail.com) or find me on:
+ 
+
+<a href="https://www.linkedin.com/in/thecarlapacheco/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="https://github.com/cmpacheco23?tab=repositories"><img src="https://img.shields.io/github/followers/cmpacheco23?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
+</a>
+<br />
 
 </div>
