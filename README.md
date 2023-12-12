@@ -1,9 +1,25 @@
 <div align="center">
   <h1>Hi there, I'm Carla! 👋</h1>
-<img src="images/me.JPG" alt="My Cat Minina">
+
+### Contact Me
+
+Let's connect! You can reach me at [cpacheco.nyc@gmail.com](mailto:cpacheco.nyc@gmail.com) or find me on:
+
+<a href="https://www.linkedin.com/in/thecarlapacheco/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="https://github.com/cmpacheco23?tab=repositories"><img src="https://img.shields.io/github/followers/cmpacheco23?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
+</a>
+<a href="https://carlapacheco.com"><img src="https://img.shields.io/badge/My Porfolio-8A2BE2" />
+</a>
+<br />
 
 ## About Me
+
 I'm a Full Stack Software Engineer based in New York City with a background in Marketing and Customer Success at MarTech SaaS companies. I'm deeply passionate about coding and open source projects, and you can explore my work on my GitHub profile. Feel free to delve into my repositories and contribute to any projects that pique your interest.
+
+<img src="images/me.JPG" alt="Picture of Carla">
+
+
 
 ### Fun facts: 🌟
 My hobbies include reading, savoring a good cup of coffee, amassing an excessive number of mugs, and enthusiastically discussing cats, especially my own.
@@ -45,6 +61,10 @@ Here are some of my highlighted projects:
 
 
 
+BARK Animal Rescue:  [Back-End Repo](https://github.com/cmpacheco23/winter-hackathon-backend) [Front-End Repo](https://github.com/cmpacheco23/winter-hackathon-23)
+  <br>
+  <img src="images/bark.png" width="200" height="200">
+
 Fantastic Books:  [Back-End Repo](https://github.com/cmpacheco23/fantastic-books-back-end) [Front-End Repo](https://github.com/cmpacheco23/fantastic-books-front-end)
   <br>
   <img src="images/books.png" width="200" height="200">
@@ -59,15 +79,6 @@ Sensi Snacker Tracker: [GitHub Repository](https://github.com/cmpacheco23/sensi-
   <img src="images/food.png" width="200" height="200">
 
 
-### Contact Me
 
-Let's connect! You can reach me at [cpacheco.nyc@gmail.com](mailto:cpacheco.nyc@gmail.com) or find me on:
- 
-
-<a href="https://www.linkedin.com/in/thecarlapacheco/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="https://github.com/cmpacheco23?tab=repositories"><img src="https://img.shields.io/github/followers/cmpacheco23?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
-</a>
-<br />
 
 </div>
